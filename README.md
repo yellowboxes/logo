@@ -23,7 +23,7 @@ The purpose of this repository is to track an document the process and progress 
 <br></br>
 
 <h2>Milestones:</h2>
-<br></br>
+
 <p><h3> Electrical </h3></p>
 <p>
 1) get microcontroller to light up LEDs                                        
