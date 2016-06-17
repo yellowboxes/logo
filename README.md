@@ -35,7 +35,6 @@ Milestones:
 </p>
 
 <p><h2>Mechanical</h2></p> 
-<br></br>
 1) Find the correct dimension for the casing
 <br></br>
 2) Find the correct material for the casing
