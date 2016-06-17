@@ -19,7 +19,6 @@ The purpose of this repository is to track an document the process and progress 
  <br></br>
 - (1) Box Cutter 
 </p>
-<br></br>
 
 <h2>Milestones:</h2>
 
