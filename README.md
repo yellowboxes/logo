@@ -21,12 +21,32 @@ The purpose of this repository is to track an document the process and progress 
  - (1) Box Cutter 
 </p>
 Milestones:
-                Electrical                                                                         Mechanical
-1) get microcontroller to light up LEDs                                         1) Find the correct dimensions for the casing
-2) get microcontroller to light up LEDs with a sensor                           2) Find the correct material for the casing
-3) replace LEDs with neopixels and light them up with sensor                    3) Carve the casing to match the logo
-4) reprogramm the neopixels to light up according to prefrence
+<br></br>
+<p>              Electrical                                                                         </p>
+<p>
+1) get microcontroller to light up LEDs                                        
+<br></br>
+2) get microcontroller to light up LEDs with a sensor                          
+<br></br>
+3) replace LEDs with neopixels and light them up with sensor                   
+<br></br>
+4) reprogramm the neopixels to light up according to prefrence 
+<br></br>
+</p>
+
+<p> Mechanical 
+<br></br>
+1) Find the correct dimension for the casing
+<br></br>
+2) Find the correct material for the casing
+<br></br>
+3) Carve the casing to match the logo
+<br></br>
+</p>
+
+<p>
 Active Members:
+</p>
 
 </body>
 </html>
