@@ -10,15 +10,15 @@ The purpose of this repository is to track an document the process and progress 
 <p> 
  Bill of Materials: 
   <br></br>
- - (1) Microcontroller
+- (1) Microcontroller
  <br></br>
- - (1) LED strip
+- (1) LED strip
  <br></br>
- - (1) Strip of older + Soldering station
+- (1) Strip of older + Soldering station
  <br></br>
- - (1) Foam Board
+- (1) Foam Board
  <br></br>
- - (1) Box Cutter 
+- (1) Box Cutter 
 </p>
 Milestones:
 <br></br>
