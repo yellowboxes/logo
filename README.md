@@ -2,8 +2,9 @@
 <html>
 <body>
 
-<h3> Purpose: </h3> to create a logo for Rhodium, one which has LEDs that respond to gesture movements 
-The purpose of this repository is to track an document the process and progress of the project: Rhodium Logo.
+<h3>Purpose:</h3> 
+<p> to create a logo for Rhodium, one which has LEDs that respond to gesture movements 
+The purpose of this repository is to track an document the process and progress of the project: Rhodium Logo. </p>
 
 
 <p> 
