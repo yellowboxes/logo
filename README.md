@@ -8,7 +8,6 @@ The purpose of this repository is to track an document the process and progress 
 
 
 <p><h3>Bill of Materials:</h3></p>
-  <br></br> 
   <p>
 - (1) Microcontroller
  <br></br>
