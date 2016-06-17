@@ -22,7 +22,7 @@ The purpose of this repository is to track an document the process and progress 
 </p>
 Milestones:
 <br></br>
-<p>              Electrical                                                                         </p>
+<p><h2> Electrical </h2></p>
 <p>
 1) get microcontroller to light up LEDs                                        
 <br></br>
@@ -34,7 +34,7 @@ Milestones:
 <br></br>
 </p>
 
-<p> Mechanical 
+<p><h2>Mechanical</h2></p> 
 <br></br>
 1) Find the correct dimension for the casing
 <br></br>
@@ -44,9 +44,7 @@ Milestones:
 <br></br>
 </p>
 
-<p>
-Active Members:
-</p>
+<p><h2> Active Members:</h2> </p>
 
 </body>
 </html>
