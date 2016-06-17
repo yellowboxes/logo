@@ -2,14 +2,14 @@
 <html>
 <body>
 
-<h3>Purpose:</h3> 
+<h2>Purpose:</h2> 
 <p> to create a logo for Rhodium, one which has LEDs that respond to gesture movements 
 The purpose of this repository is to track an document the process and progress of the project: Rhodium Logo. </p>
 
 
-<p> 
- Bill of Materials: 
-  <br></br>
+<p><h3>Bill of Materials:</h3></p>
+  <br></br> 
+  <p>
 - (1) Microcontroller
  <br></br>
 - (1) LED strip
@@ -22,9 +22,9 @@ The purpose of this repository is to track an document the process and progress 
 </p>
 <br></br>
 
-<h3>Milestones:</h3>
+<h2>Milestones:</h2>
 <br></br>
-<p><h2> Electrical </h2></p>
+<p><h3> Electrical </h3></p>
 <p>
 1) get microcontroller to light up LEDs                                        
 <br></br>
@@ -36,7 +36,7 @@ The purpose of this repository is to track an document the process and progress 
 <br></br>
 </p>
 
-<p><h2>Mechanical</h2></p> 
+<p><h3>Mechanical</h3></p> 
 1) Find the correct dimension for the casing
 <br></br>
 2) Find the correct material for the casing
@@ -45,7 +45,7 @@ The purpose of this repository is to track an document the process and progress 
 <br></br>
 </p>
 
-<p><h2> Active Members:</h2> </p>
+<p><h3> Active Members:</h3> </p>
 
 </body>
 </html>
